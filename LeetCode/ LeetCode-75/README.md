@@ -1,0 +1,7 @@
+# [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/?progress=b14vlvc)
+
+## Day 1 Prefix Sum
+
+- [1480. Running Sum of 1d Array](./1480.running-sum-of-1-d-array.cpp)
+
+- [724. Find Pivot Index](./724.find-pivot-index.cpp)
