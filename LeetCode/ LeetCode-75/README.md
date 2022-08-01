@@ -5,3 +5,9 @@
 - [1480. Running Sum of 1d Array](./1480.running-sum-of-1-d-array.cpp)
 
 - [724. Find Pivot Index](./724.find-pivot-index.cpp)
+
+## Day 2 String
+
+- [205. Isomorphic Strings](./205.isomorphic-strings.cpp)
+
+- [392. Is Subsequence](./392.is-subsequence.cpp)
