@@ -11,3 +11,9 @@
 - [205. Isomorphic Strings](./205.isomorphic-strings.cpp)
 
 - [392. Is Subsequence](./392.is-subsequence.cpp)
+
+## Day 3 Linked List
+
+- [21. Merge Two Sorted Lists](./21.merge-two-sorted-lists.cpp)
+
+- [206. Reverse Linked List](./206.reverse-linked-list.cpp)
