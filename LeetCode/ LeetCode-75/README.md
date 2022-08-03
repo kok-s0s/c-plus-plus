@@ -17,3 +17,9 @@
 - [21. Merge Two Sorted Lists](./21.merge-two-sorted-lists.cpp)
 
 - [206. Reverse Linked List](./206.reverse-linked-list.cpp)
+
+## Day 4 Linked List
+
+- [876. Middle of the Linked List](./876.middle-of-the-linked-list.cpp)
+
+- [142. Linked List Cycle II](./142.linked-list-cycle-ii.cpp)
