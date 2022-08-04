@@ -23,3 +23,9 @@
 - [876. Middle of the Linked List](./876.middle-of-the-linked-list.cpp)
 
 - [142. Linked List Cycle II](./142.linked-list-cycle-ii.cpp)
+
+## Day 5 Greedy
+
+- [121. Best Time to Buy and Sell Stock](./121.best-time-to-buy-and-sell-stock.cpp)
+
+- [409. Longest Palindrome](./409.longest-palindrome.cpp)
