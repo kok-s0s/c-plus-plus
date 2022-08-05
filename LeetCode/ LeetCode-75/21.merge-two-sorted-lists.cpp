@@ -17,13 +17,13 @@
  */
 class Solution {
 public:
-  ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+  ListNode *mergeTwoLists(ListNode *list1, ListNode *list2) {
     ListNode *dummy, *temp;
     dummy = new ListNode(0);
     temp = dummy;
 
-    while(list1 && list2) {
-      if(list1->val < list2->val) {
+    while (list1 && list2) {
+      if (list1->val < list2->val) {
         temp->next = list1;
         list1 = list1->next;
       } else {
@@ -33,7 +33,7 @@ public:
       temp = temp->next;
     }
 
-    if(list1) {
+    if (list1) {
       temp->next = list1;
     } else {
       temp->next = list2;
@@ -43,4 +43,3 @@ public:
   }
 };
 // @lc code=end
-

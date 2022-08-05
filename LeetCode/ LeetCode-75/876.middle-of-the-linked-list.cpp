@@ -17,13 +17,13 @@
  */
 class Solution {
 public:
-  ListNode* middleNode(ListNode* head) {
+  ListNode *middleNode(ListNode *head) {
     /*
      * Fast and Slow Pointer
      */
 
-    ListNode* slow = head;
-    ListNode* fast = head;
+    ListNode *slow = head;
+    ListNode *fast = head;
 
     while (fast && fast->next) {
       slow = slow->next;
@@ -34,4 +34,3 @@ public:
   }
 };
 // @lc code=end
-

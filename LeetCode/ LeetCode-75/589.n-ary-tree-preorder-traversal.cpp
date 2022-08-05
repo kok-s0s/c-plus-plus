@@ -27,7 +27,7 @@ public:
 
 class Solution {
 public:
-  vector<int> preorder(Node* root) {
+  vector<int> preorder(Node *root) {
     vector<int> res;
     if (!root)
       return res;
@@ -40,4 +40,3 @@ public:
   }
 };
 // @lc code=end
-
