@@ -29,3 +29,9 @@
 - [121. Best Time to Buy and Sell Stock](./121.best-time-to-buy-and-sell-stock.cpp)
 
 - [409. Longest Palindrome](./409.longest-palindrome.cpp)
+
+## Day 6 Tree
+
+- [589. N-ary Tree Preorder Traversal](./589.n-ary-tree-preorder-traversal.cpp)
+
+- [102. Binary Tree Level Order Traversal](./102.binary-tree-level-order-traversal.cpp)
