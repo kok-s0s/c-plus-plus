@@ -35,3 +35,9 @@
 - [589. N-ary Tree Preorder Traversal](./589.n-ary-tree-preorder-traversal.cpp)
 
 - [102. Binary Tree Level Order Traversal](./102.binary-tree-level-order-traversal.cpp)
+
+## Day 7 Binary Search
+
+- [704. Binary Search](./704.binary-search.cpp)
+
+- [278. First Bad Version](./278.first-bad-version.cpp)
