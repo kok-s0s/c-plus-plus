@@ -41,3 +41,9 @@
 - [704. Binary Search](./704.binary-search.cpp)
 
 - [278. First Bad Version](./278.first-bad-version.cpp)
+
+## Day 8 Binary Search Tree
+
+- [98. Validate Binary Search Tree](./98.validate-binary-search-tree.cpp)
+
+- [235. Lowest Common Ancestor of a Binary Search Tree](./235.lowest-common-ancestor-of-a-binary-search-tree.cpp)
