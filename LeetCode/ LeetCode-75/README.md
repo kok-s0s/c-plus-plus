@@ -47,3 +47,9 @@
 - [98. Validate Binary Search Tree](./98.validate-binary-search-tree.cpp)
 
 - [235. Lowest Common Ancestor of a Binary Search Tree](./235.lowest-common-ancestor-of-a-binary-search-tree.cpp)
+
+## Day 9 Graph/BFS/DFS
+
+- [733. Flood Fill](./733.flood-fill.cpp)
+
+- [200. Number of Islands](./200.number-of-islands.cpp)
