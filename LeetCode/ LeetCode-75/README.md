@@ -53,3 +53,9 @@
 - [733. Flood Fill](./733.flood-fill.cpp)
 
 - [200. Number of Islands](./200.number-of-islands.cpp)
+
+## Day 10 Dynamic Programming
+
+- [509. Fibonacci Number](./509.fibonacci-number.cpp)
+
+- [70. Climbing Stairs](./70.climbing-stairs.cpp)
