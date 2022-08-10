@@ -59,3 +59,9 @@
 - [509. Fibonacci Number](./509.fibonacci-number.cpp)
 
 - [70. Climbing Stairs](./70.climbing-stairs.cpp)
+
+## Day 11 Dynamic Programming
+
+- [746. Min Cost Climbing Stairs](./746.min-cost-climbing-stairs.cpp)
+
+- [62. Unique Paths](./62.unique-paths.cpp)
