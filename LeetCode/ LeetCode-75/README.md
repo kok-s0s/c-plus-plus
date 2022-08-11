@@ -65,3 +65,9 @@
 - [746. Min Cost Climbing Stairs](./746.min-cost-climbing-stairs.cpp)
 
 - [62. Unique Paths](./62.unique-paths.cpp)
+
+## Day 12 Sliding Window/Two Pointer
+
+- [438. Find All Anagrams in a String](./438.find-all-anagrams-in-a-string.cpp)
+
+- [424. Longest Repeating Character Replacement](./424.longest-repeating-character-replacement.cpp)
