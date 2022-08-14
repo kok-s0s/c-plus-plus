@@ -83,3 +83,9 @@
 - [844. Backspace String Compare](./844.backspace-string-compare.cpp)
 
 - [394. Decode String](./394.decode-string.cpp)
+
+## Day 15 Heap
+
+- [1046. Last Stone Weight](./1046.last-stone-weight.cpp)
+
+- [692. Top K Frequent Words](./692.top-k-frequent-words.cpp)
