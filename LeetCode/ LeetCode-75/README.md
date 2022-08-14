@@ -77,3 +77,9 @@
 - [1. Two Sum](./1.two-sum.cpp)
 
 - [299. Bulls and Cows](./299.bulls-and-cows.cpp)
+
+## Day 14 Stack
+
+- [844. Backspace String Compare](./844.backspace-string-compare.cpp)
+
+- [394. Decode String](./394.decode-string.cpp)
