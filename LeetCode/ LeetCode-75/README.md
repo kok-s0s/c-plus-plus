@@ -71,3 +71,9 @@
 - [438. Find All Anagrams in a String](./438.find-all-anagrams-in-a-string.cpp)
 
 - [424. Longest Repeating Character Replacement](./424.longest-repeating-character-replacement.cpp)
+
+## Day 13 Hashmap
+
+- [1. Two Sum](./1.two-sum.cpp)
+
+- [299. Bulls and Cows](./299.bulls-and-cows.cpp)
