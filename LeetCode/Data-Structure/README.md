@@ -5,3 +5,9 @@
 - [217. Contains Duplicate](./217.contains-duplicate.cpp)
 
 - [53. Maximum Subarray](./53.maximum-subarray.cpp)
+
+## Day 2 Array
+
+- [1. Two Sum](./1.two-sum.cpp)
+
+- [88. Merge Sorted Array](./88.merge-sorted-array.cpp)
