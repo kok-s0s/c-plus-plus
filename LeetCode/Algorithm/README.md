@@ -7,3 +7,9 @@
 - [278. First Bad Version](./278.first-bad-version.cpp)
 
 - [35. Search Insert Position](./35.search-insert-position.cpp)
+
+## Day 2 Two Pointers
+
+- [977. Squares of a Sorted Array](./977.squares-of-a-sorted-array.cpp)
+
+- [189. Rotate Array](./189.rotate-array.cpp)
