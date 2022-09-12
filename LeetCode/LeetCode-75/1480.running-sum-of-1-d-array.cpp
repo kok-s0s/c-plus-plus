@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   vector<int> runningSum(vector<int> &nums) {
     /*
      * Using Separate Space

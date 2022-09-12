@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   string getHint(string secret, string guess) {
     int aCnt = 0;
     int bCnt = 0;

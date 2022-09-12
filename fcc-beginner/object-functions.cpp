@@ -2,7 +2,7 @@
 using namespace std;
 
 class Student {
-public:
+ public:
   string name;
   string major;
   double gpa;

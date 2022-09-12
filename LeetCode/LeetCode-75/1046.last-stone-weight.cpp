@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   int lastStoneWeight(vector<int> &stones) {
     priority_queue<int> pq(begin(stones), end(stones));
     while (pq.size() > 1) {

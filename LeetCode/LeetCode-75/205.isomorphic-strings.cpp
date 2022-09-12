@@ -6,26 +6,22 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   bool isIsomorphic(string s, string t) {
     /*
      * Character Mapping with Dictionary
      */
 
-    if (s.size() != t.size())
-      return false;
+    if (s.size() != t.size()) return false;
 
     int mp1[256];
     int mp2[256];
 
-    for (int i = 0; i < 256; ++i)
-      mp1[i] = -1;
-    for (int i = 0; i < 256; ++i)
-      mp2[i] = -1;
+    for (int i = 0; i < 256; ++i) mp1[i] = -1;
+    for (int i = 0; i < 256; ++i) mp2[i] = -1;
 
     for (int i = 0; i < s.size(); ++i) {
-      if (mp1[s[i]] != mp2[t[i]])
-        return false;
+      if (mp1[s[i]] != mp2[t[i]]) return false;
 
       mp1[s[i]] = mp2[t[i]] = i;
     }

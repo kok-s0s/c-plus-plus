@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   bool backspaceCompare(string s, string t) { return build(s) == build(t); }
 
   string build(string s) {

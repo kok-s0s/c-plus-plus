@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   int maxProfit(vector<int> &prices) {
     int inf = 1e9;
     int minprice = inf, maxprofit = 0;

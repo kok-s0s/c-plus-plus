@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   int maxSubArray(vector<int> &nums) {
     int max_sum = nums[0];
     int cur_sum = nums[0];

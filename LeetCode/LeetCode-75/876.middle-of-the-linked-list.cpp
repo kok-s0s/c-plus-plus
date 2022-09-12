@@ -16,7 +16,7 @@
  * };
  */
 class Solution {
-public:
+ public:
   ListNode *middleNode(ListNode *head) {
     /*
      * Fast and Slow Pointer

@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   int climbStairs(int n) {
     int dp[n + 1];
     dp[0] = 1;

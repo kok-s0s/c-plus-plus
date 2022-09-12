@@ -2,12 +2,12 @@
 using namespace std;
 
 class Movie {
-private:
+ private:
   string rating;
   string title;
   string director;
 
-public:
+ public:
   Movie(string rating, string title, string director) {
     this->rating = rating;
     this->title = title;

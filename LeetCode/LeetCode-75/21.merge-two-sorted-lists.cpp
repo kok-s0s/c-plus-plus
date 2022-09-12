@@ -16,7 +16,7 @@
  * };
  */
 class Solution {
-public:
+ public:
   ListNode *mergeTwoLists(ListNode *list1, ListNode *list2) {
     ListNode *dummy, *temp;
     dummy = new ListNode(0);

@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   vector<int> intersect(vector<int> &nums1, vector<int> &nums2) {
     // using Map & without sort
     // map<int, int> freq;

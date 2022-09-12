@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   int characterReplacement(string s, int k) {
     int size = s.size();
     int ret = 0;

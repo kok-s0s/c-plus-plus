@@ -2,14 +2,14 @@
 using namespace std;
 
 class Chef {
-public:
+ public:
   void makeChicken() { cout << "The chef makes chicken" << endl; }
   void makeSaled() { cout << "The chef makes saled" << endl; }
   void makeSpecialDish() { cout << "The chef makes special dish" << endl; }
 };
 
 class ItalianChef : public Chef {
-public:
+ public:
   void makeSpecialDish() { cout << "The chef makes chicken parm" << endl; }
   void makePasta() { cout << "The chef makes pasta" << endl; }
 };

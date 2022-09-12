@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   int longestPalindrome(string s) {
     map<char, int> mp;
 

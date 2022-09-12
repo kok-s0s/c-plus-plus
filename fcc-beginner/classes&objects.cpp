@@ -2,7 +2,7 @@
 using namespace std;
 
 class Book {
-public:
+ public:
   string title;
   string author;
   int pages;

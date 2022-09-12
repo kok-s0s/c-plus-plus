@@ -26,11 +26,10 @@ public:
 */
 
 class Solution {
-public:
+ public:
   vector<int> preorder(Node *root) {
     vector<int> res;
-    if (!root)
-      return res;
+    if (!root) return res;
     res.push_back(root->val);
     for (auto child : root->children) {
       auto tmp = preorder(child);

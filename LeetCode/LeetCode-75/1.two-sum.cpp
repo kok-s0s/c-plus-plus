@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-public:
+ public:
   vector<int> twoSum(vector<int> &nums, int target) {
     unordered_map<int, int> hash;
     vector<int> result;
